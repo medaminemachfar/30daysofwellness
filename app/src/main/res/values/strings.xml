@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">30 days of wellness</string>
+    <string name="d1">Day 1</string>
+    <string name="d2">Day 2</string>
+    <string name="d3">Day 3</string>
+    <string name="description1">This is description number 1</string>
+    <string name="description2">This is description number 2</string>
+    <string name="description3">This is description number 3</string>
+    <string name="descriptionlong1">This is description long number 1</string>
+    <string name="descriptionlong2">This is description long number 2</string>
+    <string name="descriptionlong3">This is description long number 3</string>
+</resources>
